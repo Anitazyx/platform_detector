@@ -20,7 +20,7 @@
 
 4. python pic2video.py 图片转成视频流
 
->Python测试结果记录在：[实验结果](http://confluence.jxresearch.com:8090/pages/viewpage.action?pageId=82874179)
+
 
 ## C++版本：    
 
@@ -30,9 +30,6 @@
 3. cmake ..    
 4. make    
 5. ./test -x1=570 -x2=620 -y1=80 -y2=720 -bias_x=10
-#### 运行结果
-1. 环境使用tx2 192.168.170.148
-2. opencvdir为/home/nvidia/opencv-3.4.9/build
-3. 从读取图片到存储图片的处理流程，一张图片耗时30-40ms
+
 
 
